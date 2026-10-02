@@ -2,10 +2,10 @@ import { useCallback, useEffect, useMemo, useState } from 'react'
 
 // ✏️ EDIT THESE
 const PROFILE = {
-  name: 'Hexzeus',
+  name: 'ives0x',
   tagline: 'Selected recent work',
   bio: 'I make art full-time in spirit and in practice. This is a selection of my recent work, submitted for the Gumroad Creator-in-Residence program.',
-  email: 'you@example.com',
+  email: 'ives210@icloud.com',
   github: 'https://github.com/hexzeus',
 }
 
